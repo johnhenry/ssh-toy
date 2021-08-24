@@ -1,1 +1,4 @@
-git clone ssh://git@localhost:${SSH_PORT}/www
+rm -rf ssh
+rm -rf http
+git clone ssh://git@localhost:23/.git ssh
+git clone http://localhost:8080/.git http

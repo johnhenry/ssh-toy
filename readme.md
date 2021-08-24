@@ -1,5 +1,8 @@
 # Herokito
 
+https://www.reddit.com/r/selfhosted/comments/b9bu91/self_hosted_netlifylike_solution/
+https://github.com/ynohat/git-http-backend
+
 Like heroku, but as a docker container.
 
 Heroku is most famous for allowing developers to deploy code by pushing to git.
@@ -69,3 +72,5 @@ before you can access
 git clone ssh://git@localhost:23/www
 
 http://localhost:8080
+
+{}
